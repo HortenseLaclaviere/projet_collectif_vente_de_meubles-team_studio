@@ -1,2 +1,1 @@
-Pour se connecter à votre base de donnée via Sequelize, créez un fichier ".env" dans API.
-Et remplissez vos informations personnelles de MYSQL selon l'exemple de example.env. 
+Comfy Studio est une plateforme de gestion d'un magasin de meubles.
